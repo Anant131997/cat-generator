@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    /* margin: 10%; */
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 90vh;
+}
+
+h1{
+    color: indianred;
+}
+
+.img{
+    width: 10%;
+}
+
+.btn{
+    margin: 5%;
+    width: 8em;
+    height: 2em;
+    background-color: chartreuse;
+    font-size: 20px;
+}
+
+.showcase{
+    width: 30%;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
